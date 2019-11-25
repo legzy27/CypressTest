@@ -4,7 +4,7 @@
 
 - npm init
 - npm install --save-dev cypress
--npm install mocha
+- npm install mocha
 
 # Update the project’s scripts by opening package.json and add this line to your scripts to the following:
 
