@@ -1,6 +1,6 @@
 # cypressTest
 
-# Setup Cypress Testing Tool
+# Setup cypress testing tool
 
 - npm init
 - npm install --save-dev cypress
