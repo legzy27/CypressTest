@@ -15,8 +15,8 @@
 { "chromeWebSecurity": false }
 
 # Run test
-cd into (cypressTest/cypress/integration/examples/)
-Type npm run cypress:open and press in the terminal
+- cd into (cypressTest/cypress/integration/examples/)
+- Type npm run cypress:open and press in the terminal
 
 
 
