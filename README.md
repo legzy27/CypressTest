@@ -6,13 +6,13 @@
 - npm install --save-dev cypress
 - npm install mocha
 
-# Update the project’s scripts by opening package.json and add this line to your scripts to the following:
+# Update the project’s scripts by opening package.json and add this line to your scripts
 
-"cypress:open": "cypress open"
+- "cypress:open": "cypress open"
 
 # Create cypress.json and add this line to the file
 
-{ "chromeWebSecurity": false }
+- { "chromeWebSecurity": false }
 
 # Run test
 - cd into (cypressTest/cypress/integration/examples/)
